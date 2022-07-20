@@ -1,0 +1,11 @@
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jenkins-ubuntu-20-install-git-jdk-java-ci-cd
+
+//Jenkins login
+waseem_quazi
+Kent@12345
+
+//github
+Waseemuddin-Quazi
+Kent#12345
+
+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
